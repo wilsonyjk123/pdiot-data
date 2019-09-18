@@ -7,6 +7,6 @@ This way, you can share the data with the rest of your coursemates.
 Regardless of the type of data you are collecting, make sure that the Nordic Cube is always placed with the round hole facing upwards.
 
 For example:
-![Upper Arm](https://github.com/specknet/pdiot-data/blob/master/2019/Sensor%20Positioning/foot.jpeg =250x)
-Format: ![Alt Text](url)
+![](https://github.com/specknet/pdiot-data/blob/master/2019/Sensor%20Positioning/foot.jpeg)
+<img src="https://github.com/specknet/pdiot-data/blob/master/2019/Sensor%20Positioning/foot.jpeg"  width="120" height="120">
 
