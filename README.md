@@ -1,2 +1,2 @@
-# pdiot2018-data
-Shared repository of walking motion capture data for the PDIoT course
+# pdiot-data
+Shared repository of motion capture data for the PDIoT course 2020.
