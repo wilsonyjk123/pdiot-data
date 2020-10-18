@@ -1,0 +1,6 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Left
+# Activity type: Descending stairs
+# Activity code: 13
+# Subject id: s1660711
+timestamp,seq,accel_x,accel_y,accel_z
