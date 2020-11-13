@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Right
+# Activity type: Standing
+# Activity code: 100
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601128955402,0,-0.16113281,0.9413452,-0.3110962,Chest,Right,s1737472,0,123
 1601128955405,1,-0.14331055,0.8480835,-0.29522705,Chest,Right,s1737472,0,123

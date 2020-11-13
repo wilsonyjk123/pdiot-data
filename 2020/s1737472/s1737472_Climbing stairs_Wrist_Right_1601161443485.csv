@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Right
+# Activity type: Climbing stairs
+# Activity code: 12
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601161445518,0,0.8911133,0.355896,0.16351318,Wrist,Right,s1737472,12,123
 1601161445519,1,0.9082031,0.32073975,0.1395874,Wrist,Right,s1737472,12,123

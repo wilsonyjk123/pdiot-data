@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Right
+# Activity type: Standing
+# Activity code: 100
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601038824888,0,-0.3564453,0.91326904,-0.069885254,Front pocket (trouser),Right,s1737472,0,123
 1601038824892,1,-0.29052734,0.93963623,-0.11431885,Front pocket (trouser),Right,s1737472,0,123

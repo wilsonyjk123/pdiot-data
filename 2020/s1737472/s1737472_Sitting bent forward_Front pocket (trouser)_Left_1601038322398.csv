@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Left
+# Activity type: Sitting bent forward
+# Activity code: 4
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601038324366,0,0.55126953,0.09686279,0.7682495,Front pocket (trouser),Left,s1737472,4,123
 1601038324371,1,0.55078125,0.09588623,0.7650757,Front pocket (trouser),Left,s1737472,4,123

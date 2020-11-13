@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Left
+# Activity type: Sitting
+# Activity code: 0
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601128074403,0,-0.16040039,0.9057007,-0.3809204,Chest,Left,s1737472,0,123
 1601128074405,1,-0.16552734,0.9069214,-0.3838501,Chest,Left,s1737472,0,123

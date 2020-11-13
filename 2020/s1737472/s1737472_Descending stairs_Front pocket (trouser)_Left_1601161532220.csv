@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Left
+# Activity type: Descending stairs
+# Activity code: 13
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601161532603,0,0.35839844,0.88397217,-0.1326294,Front pocket (trouser),Left,s1737472,13,123
 1601161532604,1,0.35839844,0.88397217,-0.1326294,Front pocket (trouser),Left,s1737472,13,123

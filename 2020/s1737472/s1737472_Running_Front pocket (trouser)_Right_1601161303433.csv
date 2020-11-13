@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Right
+# Activity type: Running
+# Activity code: 11
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601161303913,0,-0.048828125,-1.0122681,0.21234131,Front pocket (trouser),Right,s1737472,11,123
 1601161303913,1,-0.048828125,-1.0122681,0.21234131,Front pocket (trouser),Right,s1737472,11,123

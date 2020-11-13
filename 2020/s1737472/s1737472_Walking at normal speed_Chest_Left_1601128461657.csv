@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Left
+# Activity type: Walking at normal speed
+# Activity code: 1
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601128462670,0,-0.053710938,0.9347534,-0.14117432,Chest,Left,s1737472,1,123
 1601128462674,1,-0.03491211,0.9874878,-0.19659424,Chest,Left,s1737472,1,123

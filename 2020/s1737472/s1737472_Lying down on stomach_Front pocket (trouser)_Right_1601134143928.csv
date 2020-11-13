@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Right
+# Activity type: Lying down on stomach
+# Activity code: 8
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601134144884,0,-0.4519043,0.46331787,-0.7815552,Front pocket (trouser),Right,s1737472,8,123
 1601134144890,1,-0.46118164,0.50653076,-0.8491821,Front pocket (trouser),Right,s1737472,8,123

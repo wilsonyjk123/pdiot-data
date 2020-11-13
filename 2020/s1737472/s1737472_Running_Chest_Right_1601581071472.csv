@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Right
+# Activity type: Running
+# Activity code: 11
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601581072671,0,0.83251953,0.36419678,0.15594482,Chest,Right,s1737472,11,123
 1601581072672,1,0.8327637,0.36395264,0.15423584,Chest,Right,s1737472,11,123

@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Right
+# Activity type: Running
+# Activity code: 11
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601038057503,0,0.6984863,0.7885132,0.14276123,Wrist,Right,s1737472,11,123
 1601038057505,1,0.056152344,0.45843506,0.23504639,Wrist,Right,s1737472,11,123

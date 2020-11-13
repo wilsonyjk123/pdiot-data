@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Right
+# Activity type: Sitting bent backward
+# Activity code: 5
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601038773986,0,-0.72436523,0.047058105,0.6923218,Front pocket (trouser),Right,s1737472,5,123
 1601038773987,1,-0.7282715,0.050964355,0.6876831,Front pocket (trouser),Right,s1737472,5,123

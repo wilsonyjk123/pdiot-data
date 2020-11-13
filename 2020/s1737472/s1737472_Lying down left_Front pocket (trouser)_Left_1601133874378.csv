@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Left
+# Activity type: Lying down left
+# Activity code: 7
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601133875875,0,-0.9135742,0.20111084,-0.41729736,Front pocket (trouser),Left,s1737472,7,123
 1601133875880,1,-0.9160156,0.20233154,-0.41900635,Front pocket (trouser),Left,s1737472,7,123

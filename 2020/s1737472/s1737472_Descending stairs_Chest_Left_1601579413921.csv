@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Left
+# Activity type: Descending stairs
+# Activity code: 13
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601579414831,0,-0.4482422,-0.91729736,0.19915771,Chest,Left,s1737472,13,123
 1601579414833,1,-0.44873047,-0.9187622,0.19818115,Chest,Left,s1737472,13,123

@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Right
+# Activity type: Lying down on stomach
+# Activity code: 8
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601129282667,0,0.48779297,0.1864624,-0.96710205,Chest,Right,s1737472,8,123
 1601129282673,1,0.4428711,0.15179443,-0.79522705,Chest,Right,s1737472,8,123

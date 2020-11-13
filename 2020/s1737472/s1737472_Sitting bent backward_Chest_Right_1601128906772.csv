@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Right
+# Activity type: Sitting bent backward
+# Activity code: 5
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601128907079,0,-0.23583984,0.87908936,-0.34869385,Chest,Right,s1737472,5,123
 1601128907079,1,-0.24243164,0.9315796,-0.3411255,Chest,Right,s1737472,5,123

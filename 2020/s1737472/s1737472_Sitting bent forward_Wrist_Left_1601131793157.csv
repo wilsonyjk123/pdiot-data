@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Left
+# Activity type: Sitting bent forward
+# Activity code: 4
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601131793257,0,-0.7697754,-0.52838135,-0.4619751,Wrist,Left,s1737472,4,123
 1601131793260,1,-0.7697754,-0.5147095,-0.4824829,Wrist,Left,s1737472,4,123

@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Left
+# Activity type: Walking at normal speed
+# Activity code: 1
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601132303168,0,-0.091796875,-0.8189087,-0.52056885,Wrist,Left,s1737472,1,123
 1601132303171,1,-0.091796875,-0.8189087,-0.52056885,Wrist,Left,s1737472,1,123

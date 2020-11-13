@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Right
+# Activity type: Standing
+# Activity code: 100
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601037943040,0,0.90844727,-0.055236816,0.30877686,Wrist,Right,s1737472,0,123
 1601037943044,1,0.93774414,-0.025939941,0.31195068,Wrist,Right,s1737472,0,123
