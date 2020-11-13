@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Left
+# Activity type: Desk work
+# Activity code: 31
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601133350905,0,0.009277344,0.35443115,0.9164429,Wrist,Right,s1737472,31,123
 1601133350913,1,0.006591797,0.35516357,0.9003296,Wrist,Right,s1737472,31,123

@@ -1,3 +1,8 @@
+# Sensor position: Front pocket (trouser)
+# Sensor side: Right
+# Activity type: Desk work
+# Activity code: 31
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1602692653929,0,-0.23999023,-0.409729,0.88812256,Front pocket (trouser),Right,s1737472,31,123
 1602692653931,1,-0.2409668,-0.40509033,0.89349365,Front pocket (trouser),Right,s1737472,31,123

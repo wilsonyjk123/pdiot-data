@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Left
+# Activity type: Lying down right
+# Activity code: 6
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601128340837,0,-0.87597656,0.066833496,0.49261475,Chest,Left,s1737472,6,123
 1601128340841,1,-0.89624023,0.06072998,0.49041748,Chest,Left,s1737472,6,123

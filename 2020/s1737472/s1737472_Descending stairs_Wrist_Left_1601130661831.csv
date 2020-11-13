@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Left
+# Activity type: Descending stairs
+# Activity code: 13
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601130662419,0,0.9523926,0.055114746,0.1486206,Wrist,Left,s1737472,13,123
 1601130662423,1,0.9243164,0.014831543,0.11541748,Wrist,Left,s1737472,13,123

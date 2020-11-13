@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Left
+# Activity type: Lying down on stomach
+# Activity code: 8
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601132166271,0,-0.095947266,-0.0049438477,-1.034729,Wrist,Left,s1737472,8,123
 1601132166273,1,-0.09887695,0.018981934,-1.0342407,Wrist,Left,s1737472,8,123

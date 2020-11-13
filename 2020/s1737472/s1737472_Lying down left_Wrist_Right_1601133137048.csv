@@ -1,3 +1,8 @@
+# Sensor position: Wrist
+# Sensor side: Right
+# Activity type: Lying down left
+# Activity code: 7
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601133137754,0,0.23535156,-0.04058838,0.9501343,Wrist,Right,s1737472,7,123
 1601133137758,1,0.16723633,-0.003967285,0.95526123,Wrist,Right,s1737472,7,123

@@ -1,3 +1,8 @@
+# Sensor position: Chest
+# Sensor side: Right
+# Activity type: Desk work
+# Activity code: 31
+# Subject id: s1737472
 timestamp,seq,accel_x,accel_y,accel_z,sensor_position,sensor_side,subject_id,activity_type,recording_id
 1601129626335,0,-0.70458984,0.5036011,0.37445068,Chest,Right,s1737472,31,123
 1601129626340,1,-0.73779297,0.5619507,0.4093628,Chest,Right,s1737472,31,123
